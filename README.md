@@ -28,5 +28,5 @@ No te preocupes, puedes llenar el formulario de compra con tu cuenta institucion
 
 ### ¿Donde puedo postular una charla?
 Puedes postular tu charla en el [formulario de Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSdwShNrnv1j5eU5jagWtu_XgI8B_-j0k1-SgMqKIfszomRJlA/viewform)
-### Hasta cuando puedo postular una charla?
+### ¿Hasta cuando puedo postular una charla?
 El Call for Speakers estará abierto hasta el 31 de Agosto del 2022.
